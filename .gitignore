@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Pytest & test coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+pipeline.log
+*.log
+
+# Generated output data
+data/processed/*.pdf

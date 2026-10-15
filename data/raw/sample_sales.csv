@@ -1,0 +1,18 @@
+transaction_id,date,region,category,customer_segment,units_sold,unit_price,discount_pct,shipping_cost,payment_status
+TX-1001,2026-03-01,North,Technology,Enterprise,45,750.0,0.1,120.0,Completed
+TX-1002,2026-03-02,South,Furniture,SMB,12,320.0,0.05,45.0,Completed
+TX-1003,2026-03-03,East,Office Supplies,Consumer,110,24.5,0.0,15.0,Completed
+TX-1004,2026-03-04,West,Technology,Enterprise,28,1200.0,0.15,85.0,Completed
+TX-1005,2026-03-05,Central,Furniture,Enterprise,35,450.0,0.2,90.0,Completed
+TX-1006,2026-03-06,North,Office Supplies,SMB,80,38.0,0.05,22.0,Pending
+TX-1007,2026-03-07,West,Technology,Consumer,14,540.0,0.0,30.0,Completed
+TX-1008,2026-03-08,East,Furniture,SMB,18,290.0,0.12,50.0,Completed
+TX-1009,2026-03-09,South,Technology,Enterprise,50,890.0,0.18,140.0,Completed
+TX-1010,2026-03-10,Central,Office Supplies,Enterprise,200,18.0,0.1,40.0,Completed
+TX-1011,2026-03-11,North,Furniture,Consumer,8,620.0,0.0,65.0,Completed
+TX-1012,2026-03-12,West,Office Supplies,SMB,95,42.0,0.08,28.0,Completed
+TX-9901,2026-03-13,InvalidRegion,Technology,SMB,10,400.0,0.1,20.0,Completed
+TX-9902,2026-03-14,North,Technology,Enterprise,0,500.0,0.1,25.0,Completed
+TX-9903,2026-03-15,South,Furniture,Consumer,5,200.0,0.85,15.0,Completed
+TX-9904,invalid-date,East,Office Supplies,SMB,20,30.0,0.0,10.0,Completed
+TX-9905,2026-03-17,West,Technology,Enterprise,15,-50.0,0.05,10.0,Completed
